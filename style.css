@@ -8,6 +8,8 @@
     display: flex;
     justify-content: center;
     justify-content: space-between;
+    background-color: rgb(73, 66, 66);
+    padding: 1%;
 }
 .a{
     color: red;
